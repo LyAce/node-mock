@@ -10,8 +10,8 @@ router.post('/getData', function (req, res, next) {
             'userName': '李二',
             'schoolName': '中南名族大学',
             'bannerImg': [
-                'https://img.17sucai.com/upload/646745/2016-11-04/158276e1ee8858d26ca6359022049566.jpg?x-oss-process=style/big',
-                'https://img.17sucai.com/upload/646745/2016-11-04/158276e1ee8858d26ca6359022049566.jpg?x-oss-process=style/big',
+                'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
+                'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
             ],
             'dinningList': [
                 {'id': 1, 'name': '北区食堂'},
@@ -31,24 +31,24 @@ router.post('/getStores', function (req, res, next) {
             'storeList': [
                 {
                     'storeID':'1',
-                    'storeImg': '',
-                    'storeName': '',
+                    'storeImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
+                    'storeName': '食堂窗口',
                     'state': 1,
                     'sMoney': '0.01',
                     'pMoney': '4.00',
                     'foodList': [
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '馄饨',
                             'foodPrice': '0.05'
                         },
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '饺子',
                             'foodPrice': '5.00'
                         },
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '饺子',
                             'foodPrice': '5.00'
                         }
@@ -56,24 +56,24 @@ router.post('/getStores', function (req, res, next) {
                 },
                 {
                     'storeID':'1',
-                    'storeImg': '',
-                    'storeName': '',
+                    'storeImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
+                    'storeName': '食堂窗口',
                     'state': 1,
                     'sMoney': '0.01',
                     'pMoney': '4.00',
                     'foodList': [
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '馄饨',
                             'foodPrice': '0.05'
                         },
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '饺子',
                             'foodPrice': '5.00'
                         },
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '饺子',
                             'foodPrice': '5.00'
                         }
@@ -81,24 +81,24 @@ router.post('/getStores', function (req, res, next) {
                 },
                 {
                     'storeID':'1',
-                    'storeImg': '',
-                    'storeName': '',
+                    'storeImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
+                    'storeName': '食堂窗口',
                     'state': 1,
                     'sMoney': '0.01',
                     'pMoney': '4.00',
                     'foodList': [
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '馄饨',
                             'foodPrice': '0.05'
                         },
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '饺子',
                             'foodPrice': '5.00'
                         },
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '饺子',
                             'foodPrice': '5.00'
                         }
@@ -106,24 +106,24 @@ router.post('/getStores', function (req, res, next) {
                 },
                 {
                     'storeID':'1',
-                    'storeImg': '',
-                    'storeName': '',
+                    'storeImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
+                    'storeName': '食堂窗口',
                     'state': 1,
                     'sMoney': '0.01',
                     'pMoney': '4.00',
                     'foodList': [
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '馄饨',
                             'foodPrice': '0.05'
                         },
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '饺子',
                             'foodPrice': '5.00'
                         },
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '饺子',
                             'foodPrice': '5.00'
                         }
@@ -131,24 +131,24 @@ router.post('/getStores', function (req, res, next) {
                 },
                 {
                     'storeID':'1',
-                    'storeImg': '',
-                    'storeName': '',
+                    'storeImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
+                    'storeName': '食堂窗口',
                     'state': 1,
                     'sMoney': '0.01',
                     'pMoney': '4.00',
                     'foodList': [
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '馄饨',
                             'foodPrice': '0.05'
                         },
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '饺子',
                             'foodPrice': '5.00'
                         },
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '饺子',
                             'foodPrice': '5.00'
                         }
@@ -156,24 +156,24 @@ router.post('/getStores', function (req, res, next) {
                 },
                 {
                     'storeID':'2',
-                    'storeImg': '',
-                    'storeName': '',
+                    'storeImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
+                    'storeName': '食堂窗口',
                     'state': 1,
                     'sMoney': '0.01',
                     'pMoney': '4.00',
                     'foodList': [
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '馄饨',
                             'foodPrice': '0.05'
                         },
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '饺子',
                             'foodPrice': '5.00'
                         },
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '饺子',
                             'foodPrice': '5.00'
                         }
@@ -181,24 +181,24 @@ router.post('/getStores', function (req, res, next) {
                 },
                 {
                     'storeID':'2',
-                    'storeImg': '',
-                    'storeName': '',
+                    'storeImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
+                    'storeName': '食堂窗口',
                     'state': 1,
                     'sMoney': '0.01',
                     'pMoney': '4.00',
                     'foodList': [
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '馄饨',
                             'foodPrice': '0.05'
                         },
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '饺子',
                             'foodPrice': '5.00'
                         },
                         {
-                            'foodImg': '',
+                            'foodImg': 'http://test-ins24-cdn-oss.51zxtx.com/fw375pvui8c58ghcbz1bk0z0',
                             'foodName': '饺子',
                             'foodPrice': '5.00'
                         }
