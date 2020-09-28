@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 
 /* GET users listing. */
-router.get('/getData', function (req, res, next) {
+router.post('/getData', function (req, res, next) {
     let data = {
         success: true,
         code: '1111',
