@@ -23,6 +23,7 @@ router.post('/getData', function (req, res, next) {
     res.json(data);
 });
 
+//获取店铺列表
 router.post('/getStores', function (req, res, next) {
     let data = {
         success: true,
